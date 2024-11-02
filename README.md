@@ -40,8 +40,8 @@ Sou **estudante de Análise e Desenvolvimento de Sistemas na PUC Goiás**, com f
 ### 🎯 Áreas de Interesse
 
 - **Desenvolvimento de Software**: Foco em back-end.
-- **Inteligência Artificial**: Começando a estudar machine learning e análise de dados.
-- **Metodologias Ágeis**: Interesse em práticas como Scrum e Kanban.
+- **Inteligência Artificial**: Começando a estudar análise de dados com Python.
+- **Metodologias Ágeis**: Interesse em práticas como Scrum.
 
 ---
 
