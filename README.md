@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas pela PUC Goiás, com foco no aprendizado e aplicação de tecnologias como Java, Python, HTML, CSS e JavaScript. Apaixonado por solucionar problemas por meio da programação, busco constantemente novos desafios que me permitam expandir meus conhecimentos. Estou em uma jornada contínua de aprendizado e aprimoramento, com o objetivo de me especializar em desenvolvimento full stack, unindo criatividade e eficiência para construir soluções inovadoras.</p>
+<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas pela PUC Goiás, com foco no aprendizado e aplicação de tecnologias como Java, Python, HTML, CSS, JavaScript, Angular e Sprig Boot. Apaixonado por solucionar problemas por meio da programação, busco constantemente novos desafios que me permitam expandir meus conhecimentos. Estou em uma jornada contínua de aprendizado e aprimoramento, com o objetivo de me especializar em desenvolvimento full stack, unindo criatividade e eficiência para construir soluções inovadoras.</p>
 
 ###
 
