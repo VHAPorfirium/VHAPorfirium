@@ -49,18 +49,6 @@
 
 <img src="https://raw.githubusercontent.com/VHAporfirium/VHAporfirium/output/snake.svg" alt="..." />
 
-###
-
-## 📚 O que estou aprendendo
-
-- **Programação Orientada a Objetos** com Java e implementação de **microsserviços** usando **Spring Boot** e **Spring Cloud**.  
-- **Estruturas de Dados e Algoritmos** em Python, com foco na eficiência de código.  
-- **Banco de Dados Relacionais**, especialmente **MySQL**, incluindo consultas SQL otimizadas.  
-- **Desenvolvimento Front-end**: HTML, CSS, JavaScript e organização de projetos com boas práticas.  
-- Conceitos básicos de **frameworks front-end**, Angular.
-
----
-
 ### 🎯 Áreas de Interesse
 
 - **Desenvolvimento de Software**: Maior interesse em **back-end**, com visão para se tornar um desenvolvedor full stack.  
@@ -68,25 +56,3 @@
 - **Metodologias Ágeis**: Envolvimento e interesse em práticas como Scrum, para aplicar em equipes de desenvolvimento.  
 
 ---
-
-## 🛠️ Projetos e Contribuições
-
-Atualmente, estou desenvolvendo projetos acadêmicos e pessoais com foco em aprendizado e aplicação prática:  
-
-- **DSList**: Um projeto que lista jogos, desenvolvido com Java e frameworks modernos. Finalizado.  
-- **Sistema de Gerenciamento de Estacionamento**: Projeto focado no desenvolvimento do back-end para automatizar a gestão de entradas, saídas e vagas, otimizando o controle.  
-- **Sistema de Gerenciamento de Clínica**: Um sistema gratuito para atender uma clínica de baixo custo, especializada em pessoas neurodivergentes. Inclui o gerenciamento de pacientes, consultas e profissionais, melhorando a organização e o fluxo de atendimento.
-- **Site para Clínica**: Desenvolvimento de um site funcional para a clínica de baixo custo, organizado com HTML, CSS e estrutura otimizada de pastas.
-- **Sistema de Gerenciamento de Restaurante**: Projeto com foco na automação de processos como controle de mesas, pedidos, cardápio e estoque, trazendo eficiência e facilidade ao gerenciamento.  
-
----
-
-## 📅 Próximos Passos  
-
-- Aprofundar conhecimentos em **Spring Boot**, **Spring Data JPA** e **Hibernate** para back-end robusto.  
-- Estudar **JDBC**, **Stream API** e **JavaFX** para concluir meu curso de Java.  
-- Continuar com estudos de frameworks front-end, Angular, para ampliar minhas habilidades em desenvolvimento full stack.  
-- Contribuir para projetos **open-source** para ganhar experiência colaborativa.  
-- Explorar o desenvolvimento de sites para fins comerciais e venda de serviços personalizados.
-
---- 
