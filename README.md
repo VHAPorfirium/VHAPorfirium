@@ -2,7 +2,9 @@
 
 ###
 
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas pela PUC Goiás, com foco no aprendizado e aplicação de tecnologias como Java, Python, HTML, CSS, JavaScript, Angular e Sprig Boot. Apaixonado por solucionar problemas por meio da programação, busco constantemente novos desafios que me permitam expandir meus conhecimentos. Estou em uma jornada contínua de aprendizado e aprimoramento, com o objetivo de me especializar em desenvolvimento full stack, unindo criatividade e eficiência para construir soluções inovadoras.</p>
+<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas na PUC-GO e estagiário em desenvolvimento de software Backend e com experiência em suporte técnico. Estou me especializando em programação com Java e TypeScript e estou aprofundando meus estudos em frameworks SpringBoot, Node.Js e NestJs, buscando desenvolver soluções inteligentes e escaláveis. Possuo conhecimentos em SQL, MongoDb, PostgreSQL, Git, GitHub e metodologias Scrum, que me ajudam a construir projetos de alto desempenho. Minha experiência em suporte técnico aprimorou minha comunicação e trabalho em equipe, facilitando a resolução de problemas complexos.
+
+Nesta oportunidade de estágio, na QaCoders, estou desenvolvendo meu conhecimento em TypeScript com foco no framework NestJs para o Backend e vivendo a metodologia Scrum. Estou encarregado de corrigir códigos e resolver bugs de sistema.</p>
 
 ###
 
@@ -51,8 +53,8 @@
 
 ### 🎯 Áreas de Interesse
 
-- **Desenvolvimento de Software**: Maior interesse em **back-end**, com visão para se tornar um desenvolvedor full stack.  
-- **Inteligência Artificial**: Estudo inicial de análise de dados e possibilidades de machine learning com Python.  
+- **Desenvolvimento de Software**: Maior interesse em **back-end**, com visão para se tornar um desenvolvedor especialista.  
+- **Inteligência Artificial**: Estudo inicial de machine learning com Python.  
 - **Metodologias Ágeis**: Envolvimento e interesse em práticas como Scrum, para aplicar em equipes de desenvolvimento.  
 
 ---
