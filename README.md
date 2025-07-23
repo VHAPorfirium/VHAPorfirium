@@ -2,9 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante de Análise e Desenvolvimento de Sistemas na PUC-GO e estagiário em desenvolvimento de software Backend e com experiência em suporte técnico. Estou me especializando em programação com Java e TypeScript e estou aprofundando meus estudos em frameworks SpringBoot, Node.Js e NestJs, buscando desenvolver soluções inteligentes e escaláveis. Possuo conhecimentos em SQL, MongoDb, PostgreSQL, Git, GitHub e metodologias Scrum, que me ajudam a construir projetos de alto desempenho. Minha experiência em suporte técnico aprimorou minha comunicação e trabalho em equipe, facilitando a resolução de problemas complexos.
-
-Nesta oportunidade de estágio, na QaCoders, estou desenvolvendo meu conhecimento em TypeScript com foco no framework NestJs para o Backend e vivendo a metodologia Scrum. Estou encarregado de corrigir códigos e resolver bugs de sistema.</p>
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas na PUC‑GO, estudo Java na faculdade e utilizo em projetos pessoais, explorando Spring Boot para construir APIs. Em 2025, como estagiário de backend na QaCoders, comecei a usar TypeScript e NestJS no dia a dia, desenvolvendo endpoints para o sistema ERP. Em bancos de dados, atuo com PostgreSQL e MongoDB, otimizando queries e modelos de dados para reduzir latência. Adoto metodologias ágeis Scrum e Kanban para garantir entregas regulares e comunicação clara com o time. Minha bagagem em suporte técnico refinou minha escuta ativa e agilidade na resolução de bugs e incidentes.</p>
 
 ###
 
@@ -53,7 +51,7 @@ Nesta oportunidade de estágio, na QaCoders, estou desenvolvendo meu conheciment
 
 ### 🎯 Áreas de Interesse
 
-- **Desenvolvimento de Software**: Maior interesse em **back-end**, com visão para se tornar um desenvolvedor especialista.  
+- **Desenvolvimento de Software**: Maior interesse em **back-end**.  
 - **Inteligência Artificial**: Estudo inicial de machine learning com Python.  
 - **Metodologias Ágeis**: Envolvimento e interesse em práticas como Scrum, para aplicar em equipes de desenvolvimento.  
 
