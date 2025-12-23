@@ -6,6 +6,12 @@
   📚 Também possuo sólida experiência com <b>Java</b> e <b>Spring Boot</b>
 </p>
 
+<p align="center">
+Em 2025, atuei como estagiário backend na QaCoders, onde utilizei TypeScript, NestJS, Next.js e MongoDB para desenvolver endpoints e novas funcionalidades em um sistema ERP. Essa vivência me deu base sólida em desenvolvimento orientado a boas práticas e metodologias ágeis.
+
+Atualmente, atuo como desenvolvedor backend júnior na MadeInWeb, trabalhando com NestJS, Vue.js e MySQL, aplicando Scrum e Kanban para garantir entregas consistentes e comunicação eficiente com o time.
+</p>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/victorhugoaguiarporfiro/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
