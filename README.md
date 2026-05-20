@@ -39,17 +39,17 @@ Possuo base acadêmica em Java, o que consolidou meu entendimento sobre Orienta�
 
 <p align="center"><b>🏢 MadeinWeb</b> · Desenvolvedor Back-End · <i>Set/2025 - Atual</i></p>
 
-- Projeto e implemento APIs REST escaláveis em **TypeScript/NestJS**, colaborando nas decisões de arquitetura para suportar alta volumetria de dados e futuras features.
-- Desenvolvi features críticas do produto — sistema de comentários, histórico de alterações e hierarquias de projetos — aplicando **Clean Architecture** para garantir que cada domínio evolua de forma independente.
-- Implementei exportação de dados em **CSV e PDF**, criando mecanismos de validação que garantem a integridade das informações geradas para os clientes.
-- Otimizei o módulo de timer, identificando e resolvendo gargalos de performance em queries **MySQL** para assegurar consistência em dashboards e relatórios gerenciais.
-- Participo de reuniões com clientes e refinamentos de User Stories, traduzindo necessidades de negócio em decisões técnicas e critérios de aceite claros para o time.
+- Projeto e implemento APIs REST escaláveis em TypeScript/NestJS, participando das decisões de arquitetura para suportar alta volumetria de dados.
+- Desenvolvi um módulo completo de autenticação e autorização via API Key, expondo endpoints seguros para integração entre sistemas internos — incluindo o consumo controlado de dados do módulo de timer por outra aplicação.
+- Implementei features críticas — sistema de comentários, histórico de alterações, hierarquias de projetos e recuperação de senha — aplicando Clean Architecture para que cada domínio evolua de forma independente.
+- Otimizei queries MySQL no módulo de timer, resolvendo gargalos de performance para reduzir tempo de resposta e garantir consistência em dashboards.
+- Escrevo testes unitários no backend, reduzindo regressões em produção.
 
 <br/>
 
 <p align="center"><b>🏢 QaCoders</b> · Desenvolvedor Back-End · <i>Mai/2025 - Set/2025</i></p>
 
-- Contribuí no desenvolvimento de um **ERP para escolas**, integrando módulos acadêmicos e financeiros em **TypeScript/NestJS** com foco em baixa latência e zero vulnerabilidades críticas.
+- Atuei no desenvolvimento de um ERP para escolas, integrando módulos acadêmicos e financeiros em TypeScript/NestJS, ganhando vivência prática em integração entre domínios de negócio distintos.
 - Implementei novas features em sprints quinzenais, participando de todo o ciclo — do refinamento da User Story até o deploy — garantindo entregas alinhadas aos critérios de aceite.
 - Reduzi incidentes em produção através de manutenção preventiva e padronização do código, contribuindo para a estabilidade do sistema em ambiente real.
 - Criei coleções e scripts no **Postman** para testes de APIs, cobrindo comportamentos esperados e casos de borda para garantir performance consistente.
